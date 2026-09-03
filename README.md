@@ -4,9 +4,9 @@ Shareable walkthrough of the practical D4M engine on the June 2023 Connemara cas
 
 > Nothing about the data changed. We changed the mathematics with which we look at it.
 
-**Open the demo:** [https://sliothar1.github.io/d4m-marine-demo/](https://sliothar1.github.io/d4m-marine-demo/)
+**Live demo (share this):** [https://cdn.jsdelivr.net/gh/Sliothar1/d4m-marine-demo@main/index.html](https://cdn.jsdelivr.net/gh/Sliothar1/d4m-marine-demo@main/index.html)
 
-Instant fallback (no Pages wait): [raw.githack](https://raw.githack.com/Sliothar1/d4m-marine-demo/main/index.html)
+Pretty URL after one click in the repo: Settings → Pages → Source = GitHub Actions → save. Then [https://sliothar1.github.io/d4m-marine-demo/](https://sliothar1.github.io/d4m-marine-demo/) will work. The Actions workflow is already in the repo; `configure-pages` fails until that toggle is on.
 
 This public page is a read-only view of answers from the private adapter [`Sliothar1/d4m-marine`](https://github.com/Sliothar1/d4m-marine). It does not run Python. It does not forecast. It is not an official Marine Institute product.
 
